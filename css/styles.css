@@ -80,7 +80,12 @@ background-color: #2e2f42;;
 }
 
 .first-btn {
-    font-family: "Roboto", sans-serif
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #ffffff;
     background-color: #4D5AE5
 }
 
@@ -90,11 +95,11 @@ background-color: #2e2f42;;
 }
 
 .first-btn-text {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #fff;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #fff;
 }
 
 /*------- -----------*/
