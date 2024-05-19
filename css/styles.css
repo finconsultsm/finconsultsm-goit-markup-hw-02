@@ -79,7 +79,7 @@ background-color: #2e2f42;;
     color: #fff;
 }
 
-.button {
+.first-btn-text {
 font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 16px;
@@ -97,8 +97,8 @@ letter-spacing: 0.04em;
 color: #fff;
 }
 
-.button:hover,
-.button:focus {
+.first-btn-text:hover,
+.first-btn-text:focus {
     background-color: #404BBF;
     cursor: pointer
 }
@@ -106,20 +106,6 @@ color: #fff;
 /*------- -----------*/
 
 /*------- Non -----------*/
-
-.visually-hidden {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    border: 0;
-    padding: 0;
-    
-    white-space: nowrap;
-    clip-path: inset(100%);
-    clip: rect(0 0 0 0);
-    overflow: hidden;
-  }
 
 .non-list {
 }
