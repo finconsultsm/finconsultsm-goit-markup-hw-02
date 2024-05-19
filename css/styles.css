@@ -158,7 +158,8 @@ text-transform: capitalize;
 color: #2e2f42;
 }
 
-.team-list {   
+.team-list { 
+background-color: #FFFFFF      
 }
 .team-item {
 background-color: #FFFFFF
