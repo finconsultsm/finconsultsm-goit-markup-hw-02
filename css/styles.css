@@ -36,8 +36,8 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 }
 
-.header-list-item:hover,
-..header-list-item:focus {
+.header-list-link:hover,
+.header-list-link:focus {
     color: #404bbf 
 }
 
