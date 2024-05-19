@@ -1,8 +1,6 @@
 body {
 font-family: "Roboto", sans-serif;
 background-color: #FFFFFF;
-width: 1440px;
-height: 72px;
 color: #434455;
 
 }
@@ -99,8 +97,8 @@ letter-spacing: 0.04em;
 color: #fff;
 }
 
-.first-btn:hover,
-.first-btn:focus {
+.first-btn-text:hover
+.first-btn-text:focus {
     background-color: #404BBF;
     cursor: pointer
 }
