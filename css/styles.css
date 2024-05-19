@@ -28,14 +28,28 @@ a {
     color: #2e2f42;
 }
 
-.header-menu-list {
+.header-menu-item {
     font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #2e2f42;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
+.studio:hover,
+.studio:focus {
+color: #404bbf;
+}
+
+.portfolio:hover
+.portfolio:focus {
+color: #404bbf;
+}
+
+.contacts:hover
+.contacts:focus {
+color: #404bbf;
+}
 .header-adress {
     font-weight: 400;
     font-size: 16px;
