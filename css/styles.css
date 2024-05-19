@@ -97,8 +97,8 @@ letter-spacing: 0.04em;
 color: #fff;
 }
 
-.first-btn-text:hover
-.first-btn-text:focus {
+.button:hover
+.button:focus {
     background-color: #404BBF;
     cursor: pointer
 }
