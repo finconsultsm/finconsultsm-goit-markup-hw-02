@@ -86,12 +86,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #ffffff;
-    background-color: #4D5AE5
-}
-
-.first-btn:hover,
-.first-btn:focus {
-    color: #404BBF;
+background-color: #4D5AE5
 }
 
 .first-btn-text {
@@ -100,6 +95,12 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
+}
+
+.first-btn:hover,
+.first-btn:focus {
+    background-color: #404BBF;
+    cursor: pointer
 }
 
 /*------- -----------*/
