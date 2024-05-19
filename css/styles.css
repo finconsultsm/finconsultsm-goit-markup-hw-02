@@ -48,6 +48,11 @@ color: #2e2f42;
     letter-spacing: 0.02em;
     color: #434455;
 }
+
+.header-adress-item {
+    font-style:normal
+}
+
 /*------- -----------*/
 /*------- Hero -----------*/
 .first { 
